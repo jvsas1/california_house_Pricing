@@ -22,8 +22,8 @@ Este projeto de machine learning tem como objetivo prever os preços de casas na
    - Avaliação do modelo inicial com métricas de desempenho.
 
 5. **Pré-processamento de Dados**
-   - Engenharia de características.
    - Aplicação de técnicas de transformação de dados para melhorar a performance do modelo.
+   - Correção de escalas numéricas utilizando Normalizer.
 
 6. **Criar Segundo Modelo com Base Pré-processada**
    - Desenvolvimento de um novo modelo de regressão utilizando os dados pré-processados.
